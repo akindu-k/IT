@@ -1,5 +1,7 @@
 2024-06-16
 
+made changes in wp-config 
+
 changed the permissions of root@ubuntu-s-1vcpu-1gb-tor1-01:/var/www/rework/wp-content and all its subdirectories and files:
 
 root@ubuntu-s-1vcpu-1gb-tor1-01:/var/www/rework# chmod -R 777 wp-content
